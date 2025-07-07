@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1751892923600,
+    "direction": "call",
+    "confidence": 96,
+    "result": "error"
+  },
+  {
+    "timestamp": 1751893163634,
+    "direction": "call",
+    "confidence": 81,
+    "result": "error"
+  },
+  {
+    "timestamp": 1751893643662,
+    "direction": "call",
+    "confidence": 98,
+    "result": "error"
+  },
+  {
+    "timestamp": 1751894003705,
+    "direction": "put",
+    "confidence": 84,
+    "result": "error"
+  },
+  {
+    "timestamp": 1751894303731,
+    "direction": "call",
+    "confidence": 96,
+    "result": "error"
+  },
+  {
+    "timestamp": 1751894603750,
+    "direction": "call",
+    "confidence": 94,
+    "result": "error"
+  }
+]
